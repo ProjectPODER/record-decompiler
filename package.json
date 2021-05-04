@@ -1,6 +1,6 @@
 {
   "name": "record-decompiler",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "description": "Decompiles records from OCDS into individual contracts.",
   "main": "index.js",
   "scripts": {
