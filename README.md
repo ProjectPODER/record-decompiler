@@ -44,4 +44,4 @@ The implementation of the recordDecompiler function is up to you. In general, th
 
 ## Streaming the output
 
-Use a tool such as http://gitlab.rindecuentas.org/equipo-qqw/stream2db/ to stream the decompiled values back into Mongo, or [Logstash](https://www.elastic.co/products/logstash) to stream into ElasticSearch.
+Use a tool such as [stream2db](http://gitlab.rindecuentas.org/equipo-qqw/stream2db/) to stream the decompiled values into Mongo or ElasticSearch.
